@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/medhavrata/python-microservice-cicd/actions/workflows/devops.yml/badge.svg)](https://github.com/medhavrata/python-microservice-cicd/actions/workflows/devops.yml)
+
 # python-microservice-cicd
 Deploy Python Microservice to AWS via CI/CD
 
