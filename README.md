@@ -12,3 +12,5 @@ Deploy Python Microservice to AWS via CI/CD
 
 
 ![Lint Error] (https://user-images.githubusercontent.com/10562673/173145170-a12532a1-94e7-4103-a1f0-936422d1dba5.png)
+
+5. Adding the Python file libraray for cli './cli-fire.py'
