@@ -10,6 +10,7 @@ lint:
 	pylint --disable=R,C *.py mylib/*.py
 test:
 	#test
+	python -m textblob.download_corpora
 	python -m pytest -vv --cov=mylib --cov=main test_*.py
 build:
 	#build a container
